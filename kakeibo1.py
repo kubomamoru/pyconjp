@@ -1,5 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+# for MacOS
+# import matplotlib
+# matplotlib.use('TkAgg')
 
 Z = pd.read_csv('家計簿.csv')
 # 列名
