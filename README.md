@@ -40,11 +40,23 @@ plt.rcParams['font.family'] = 'IPAexGothic'
 ```
 
 ---
-## 出力例
-1. ![fig1](/家計簿_fig1.png)
-2. ![fig2](/家計簿_fig2.png)
-3. ![fig3](/家計簿_fig3.png)
-4. ![fig4](/家計簿_fig4.png)
-5. ![fig5](/家計簿_fig5.png)
-5a. ![fig5a](/家計簿_fig5a.png)
-6. ![fig6](/家計簿_fig6.png)
+## データ
+- [家計簿.csv](/家計簿.csv)
+## 例題1
+- [kakeibo1.py](/kakeibo1.py)
+- ![fig1](/家計簿_fig1.png)
+## 例題2
+- [kakeibo2.py](/kakeibo2.py)
+- ![fig2](/家計簿_fig2.png)
+## 例題3
+- [kakeibo3.py](/kakeibo3.py)
+- ![fig3](/家計簿_fig3.png)
+## 練習1
+- [kakeibo4.py](/kakeibo4.py)
+- ![fig4](/家計簿_fig4.png)
+## 練習2
+- [kakeibo5.py](/kakeibo5.py)
+- ![fig5](/家計簿_fig5.png)
+- ![fig5a](/家計簿_fig5a.png)
+## 練習3
+- ![fig6](/家計簿_fig6.png)
