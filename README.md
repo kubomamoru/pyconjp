@@ -26,17 +26,22 @@ fontList.cache
 fontList.py3k.cache
 fontList.json
 削除
-
+---------
 matplotlib.matplotlib_fname()
-で表示されたフォルダの
-matplotlibrcをコピーして編集
+のフォルダの
+matplotlibrcファイルを
+matplotlib.get_configdir()
+のフォルダにコピーして編集
 #font.family         : sans-serif
 font.family:IPAexGothic
+の１行を追加
 
 または
 
 matplotlibrcの代わりに，
 plt.rcParams['font.family'] = 'IPAexGothic'
+をコードに入れる
+以下に掲載したプログラムはこの方法
 ```
 
 ---
