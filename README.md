@@ -1,17 +1,17 @@
 # matplotlibでグラフ作成
 ## 準備
 ### パッケージのダウンロード・インストール
-'''
+```
 pip install pandas
 pip install matplotlib
-'''
+```
 ---
 ### matplotlibで日本語を表示するためのフォント追加・設定
 - IPAexフォントをダウンロード
 - https://ipafont.ipa.go.jp/node26#jp
 - IPAexゴシック(Ver.003.01)
 - ipaexg00301.zip(3.92MB)
-'''
+```
 import matplotlib
 matplotlib.matplotlib_fname()
 で表示されたフォルダ内の
@@ -37,7 +37,7 @@ font.family:IPAexGothic
 
 matplotlibrcの代わりに，
 plt.rcParams['font.family'] = 'IPAexGothic'
-'''
+```
 
 ---
 ## 出力例
