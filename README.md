@@ -52,11 +52,12 @@ plt.rcParams['font.family'] = 'IPAexGothic'
 - [kakeibo3.py](/kakeibo3.py)
 - ![fig3](/家計簿_fig3.png)
 ## 練習1
-- [kakeibo4.py](/kakeibo4.py)
+- [kakeibo4.py]
 - ![fig4](/家計簿_fig4.png)
 ## 練習2
 - [kakeibo5.py](/kakeibo5.py)
 - ![fig5](/家計簿_fig5.png)
 - ![fig5a](/家計簿_fig5a.png)
 ## 練習3
+- [kakeibo6.py]
 - ![fig6](/家計簿_fig6.png)
