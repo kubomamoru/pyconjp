@@ -56,6 +56,7 @@ plt.rcParams['font.family'] = 'IPAexGothic'
 ## 例題1
 - [kakeibo1.py](/kakeibo1.py)
 - ![fig1](/家計簿_fig1.png)
+- ![fig1a](/家計簿_fig1a.png)
 ## 例題2
 - [kakeibo2.py](/kakeibo2.py)
 - ![fig2](/家計簿_fig2.png)
