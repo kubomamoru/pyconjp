@@ -1,5 +1,5 @@
 # 勾配法：反復による最小値探索
-## 学習率0.01, 0.04, 0.06
+## 学習率0.01, 0.01（谷の反対側の初期値から）, 0.04, 0.06
 - ![gd01](/gradient_descent_01.gif)
 - ![gd01a](/gradient_descent_01a.gif)
 - ![gd04](/gradient_descent_04.gif)
